@@ -59,3 +59,16 @@ Click the image below to see a demo of the project in action!
    ```bash
    git clone https://github.com/username/music_composer.git
    cd music_composer
+
+2. setup the requirements.txt
+   ```bash
+   pip install -r requirements.txt
+
+3. Run the main.py as follows:
+   ```bash
+   python main.py
+
+## Thankfull Team Mebers
+- [Aditya Patil]([https://github.com/Dracgamer5643])
+- [Sakshi More]([])
+- [Soham Khot]([])
