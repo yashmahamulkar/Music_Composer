@@ -68,6 +68,8 @@ Click the image below to see a demo of the project in action!
    ```bash
    python main.py
 
+---
+
 ## Thankfull Team Members
 - [Aditya Patil](https://github.com/Dracgamer5643)
 - [Sakshi More]()
