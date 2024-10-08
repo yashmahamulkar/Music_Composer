@@ -83,7 +83,7 @@ class music_generator:
 
     def midi_to_mp3(self, midi_file, mp3_file):
         # Convert MIDI to WAV using FluidSynth
-        fs = FluidSynth(r'C:\Users\sanke\OneDrive\Documents\musicplayer\fluidsynth-2.3.6-win10-x64\lib\FluidR3 GM.sf2')
+        fs = FluidSynth(r'fluidsynth-2.3.6-win10-x64\lib\FluidR3 GM.sf2')
         wav_file = midi_file.replace(".mid", ".wav")
         fs.midi_to_audio(midi_file, wav_file)
 

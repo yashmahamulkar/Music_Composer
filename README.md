@@ -68,9 +68,13 @@ Click the image below to see a demo of the project in action!
    ```bash
    python main.py
 
+4. Run the below comand as follows:
+   ```bash
+   choco install fluidsynth
+
 ---
 
-## Thankfull Team Members
+## Contributers
 - [Aditya Patil](https://github.com/Dracgamer5643)
 - [Sakshi More]()
 - [Soham Khot]()
